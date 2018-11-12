@@ -1,0 +1,39 @@
+----------------- Options ---------------
+             aspect_ratio: 1.0                           
+               batch_size: 1                             	[default: 4]
+                    beta1: 0.5                           
+          checkpoints_dir: ./checkpoints                 
+                 dataroot: /media/ahmed/18FCE235FCE20CB6/pytorch-CycleGAN-and-pix2pix-master/datasets/rain2rain/	[default: None]
+             dataset_mode: r2n                           
+          display_winsize: 100                           
+                    epoch: latest                        
+                 fineSize: 256                           
+                  gpu_ids: 0                             
+                init_gain: 0.02                          
+                init_type: normal                        
+                 input_nc: 3                             
+                  isTrain: False                         	[default: None]
+                 loadSize: 256                           
+                       lr: 0.002                         
+         max_dataset_size: 1                             	[default: inf]
+                    model: n2n                           	[default: test]
+                     name: r2r                           	[default: experiment_name]
+                      ndf: 64                            
+                     netG: unet_256                      
+                      ngf: 64                            
+               no_dropout: False                         
+                  no_flip: False                         
+                 no_lsgan: True                          
+                     norm: batch                         
+                    ntest: inf                           
+                 num_test: 50                            
+              num_threads: 4                             
+                output_nc: 3                             
+                    phase: test                          
+                pool_size: 0                             
+           resize_or_crop: none                          
+              results_dir: ./results/                    
+           serial_batches: False                         
+                   suffix:                               
+                  verbose: False                         
+----------------- End -------------------
