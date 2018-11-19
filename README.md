@@ -78,6 +78,7 @@ C-3 Test images results:
 ![Alt text](results/r2r/test_latest/images/1000_3_real_A1.png?raw=true "test image noise 2 noise")
 
 
+<br />
+<br />
+<br />
 
-
-D- Testing the network:
