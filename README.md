@@ -61,7 +61,7 @@ C-2 Training curves:
 
 * PSNR_clean: psnr of network trained on clean target
 * PSNR_n2n: psnr of network trained on noisy target
-![Alt text](images/r2r_training.svg?raw=true "training curve")
+![Alt text](images/r2r_training.png?raw=true "training curve")
 
 C-3 Test images results:
 
