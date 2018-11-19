@@ -12,7 +12,7 @@ B-1 Example of network output after 200 epochs:
      * Input image; Noisy target; Output of noise2noise network 
        output of noise2clean network; Clean target
 
-![Alt text](images/t2t.png?raw=true "Network output")
+![Alt text](images/t2t3.png?raw=true "Network output")
 
      b)
      * Input image; Noisy target; Output of noise2noise network 
@@ -24,7 +24,7 @@ B-2 Training curves:
 
 * PSNR_clean: psnr of network trained on clean target
 * PSNR_n2n: psnr of network trained on noisy target
-![Alt text](images/t2t.svg?raw=true "training curve")
+![Alt text](images/t2t.png?raw=true "training curve")
 
 B-3 Test images results:
 
